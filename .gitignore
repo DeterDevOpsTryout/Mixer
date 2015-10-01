@@ -28,4 +28,5 @@
 *.app
 
 *.swo
-*.swa
+*.swp
+mixer
